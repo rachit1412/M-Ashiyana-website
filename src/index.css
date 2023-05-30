@@ -232,12 +232,24 @@ label{
 }
 .our-mission1{
   display: flex;
+ 
+  
   
 }
 .our-mission{
   margin: auto;
 }
-
+.card1{
+  width: 12rem;
+  height: 19rem;
+  background: grey;
+  margin-bottom: 1rem;
+  ;
+}
+.p1{
+  background: blue;
+  
+}
 
 
 
