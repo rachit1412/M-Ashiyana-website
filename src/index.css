@@ -241,26 +241,40 @@ label{
 .card1{
   /* width: 12rem; 
   height: 19rem; */
-  background: grey;
   margin-bottom: 1rem;
-  background-color: #ff0000;
   /* position: absolute; */
-  border: 7px solid #FFFFFF;
-  border-radius: 92px 89px 7px 7px;
-  background: linear-gradient(0deg, rgba(255, 0, 0, 0.2), rgba(255, 0, 0, 0.2)), linear-gradient(105.27deg, #FFD5D5 9.26%, #FF0000 157.3%);
-  box-shadow: 1px 2px 33px 9px rgba(0, 0, 0, 0.25);
+  /* border: 7px solid #FFFFFF;*/
+  border-radius: 110px 110px 0px 0px; 
+  /* background: linear-gradient(0deg, rgba(255, 0, 0, 0.2), rgba(255, 0, 0, 0.2)), linear-gradient(105.27deg, #FFD5D5 9.26%, #FF0000 157.3%); */
+  background: rgb(243, 123, 133);
+  /* box-shadow: 1px 2px 33px 9px rgba(0, 0, 0, 0.25); */
   text-align: center;
   
-  margin: auto;
+  margin: 0px 12px 0px 12px;
   
-  height: 270px;
-  width: 271px;
-  box-sizing: border-box;
-  ;
+  height: 310px;
+  width: 280px;
+  
 }
 .p1{
-  background: #FFFFFF
+  background: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  width: 80rem;
+  height: 100%;
+  border-color:white;
+  box-shadow: 1px 2px 33px 9px rgb(0, 0, 0, 0.25);
+  border-width: 14px;
+  margin-left: 8rem;
+  border-radius: 110px 110px 15px 15px;
+  background: rgb(243, 123, 133);;
   
+}
+#contentHeading h3{
+color: white;
+}
+#contentDisc{
+  color:white
 }
 
 

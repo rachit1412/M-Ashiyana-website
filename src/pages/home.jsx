@@ -11,10 +11,6 @@ const home = () => {
     <Bar />
     <OurMissiondesc/>
     <Card/>
-   <OurMission/>
-  
-
-
   </>
 
 
