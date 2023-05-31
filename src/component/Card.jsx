@@ -8,15 +8,15 @@ import OurMission from "./OurMission";
       desc='We want to inspire a Nation Residence with.Best Relation can be created with sharing food'
     />
     <OurMission
-      title='Residence'
+      title='Healthy Food'
       desc='We want to inspire a Nation Residence with.Best Relation can be created with sharing food'
     />
     <OurMission
-      title='Residence'
+      title='Education'
       desc='We want to inspire a Nation Residence with.Best Relation can be created with sharing food'
     />
     <OurMission
-      title='Residence'
+      title='Treatement'
       desc='We want to inspire a Nation Residence with.Best Relation can be created with sharing food'
     />
         </div>

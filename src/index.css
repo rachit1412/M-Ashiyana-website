@@ -234,20 +234,32 @@ label{
   display: flex;
  
   
-  
 }
-.our-mission{
+.our-mission,h1{
   margin: auto;
 }
 .card1{
-  width: 12rem;
-  height: 19rem;
+  /* width: 12rem; 
+  height: 19rem; */
   background: grey;
   margin-bottom: 1rem;
+  background-color: #ff0000;
+  /* position: absolute; */
+  border: 7px solid #FFFFFF;
+  border-radius: 92px 89px 7px 7px;
+  background: linear-gradient(0deg, rgba(255, 0, 0, 0.2), rgba(255, 0, 0, 0.2)), linear-gradient(105.27deg, #FFD5D5 9.26%, #FF0000 157.3%);
+  box-shadow: 1px 2px 33px 9px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  
+  margin: auto;
+  
+  height: 270px;
+  width: 271px;
+  box-sizing: border-box;
   ;
 }
 .p1{
-  background: blue;
+  background: #FFFFFF
   
 }
 
