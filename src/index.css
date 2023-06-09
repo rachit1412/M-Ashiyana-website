@@ -235,29 +235,44 @@ label{
  
   
 }
-.our-mission,h1{
+.ourMission h1{
+  margin: 25px auto;
+  
+  width: 141px;
+  height: 29px;
+  padding: 1px;
+  
+  font-size: 24px;
+  font-weight: 700;
+  
+  line-height: 29.05px;
+}
+.ourMission p{
   margin: auto;
+  position: relative;
+  width: 924px;
+  height: 130px;
+
 }
 .card1{
-  /* width: 12rem; 
-  height: 19rem; */
+ 
   margin-bottom: 1rem;
-  /* position: absolute; */
-  /* border: 7px solid #FFFFFF;*/
   border-radius: 110px 110px 0px 0px; 
-  /* background: linear-gradient(0deg, rgba(255, 0, 0, 0.2), rgba(255, 0, 0, 0.2)), linear-gradient(105.27deg, #FFD5D5 9.26%, #FF0000 157.3%); */
-  background: rgb(243, 123, 133);
-  /* box-shadow: 1px 2px 33px 9px rgba(0, 0, 0, 0.25); */
+  display: flex;
+  justify-content: center;
   text-align: center;
-  
   margin: 0px 12px 0px 12px;
+  flex-direction: column;
   
   height: 310px;
   width: 280px;
   
 }
+#contentHeading{
+  margin-top: 35px;
+}
 .p1{
-  background: #FFFFFF;
+  
   display: flex;
   justify-content: center;
   width: 80rem;
@@ -267,8 +282,8 @@ label{
   border-width: 14px;
   margin-left: 8rem;
   border-radius: 110px 110px 15px 15px;
-  background: rgb(243, 123, 133);;
   
+  background: linear-gradient(0deg, rgba(255, 0, 0, 0.2), rgba(255, 0, 0, 0.2)), linear-gradient(105.27deg, #FFD5D5 9.26%, #FF0000 157.3%);
 }
 #contentHeading h3{
 color: white;
@@ -277,7 +292,16 @@ color: white;
   color:white
 }
 
-
+#img{
+  border: 1px solid #FFFFFF;
+  background: linear-gradient(0deg, rgba(255, 0, 0, 0.2), rgba(255, 0, 0, 0.2)), linear-gradient(105.27deg, #FFD5D5 9.26%, #FF0000 157.3%);
+  border-radius: 34px 36px 33px 30px;
+  height: 116px;
+  width: 119px;
+  margin-left: 80px;
+  cursor: pointer;
+ 
+}
 
 
 
